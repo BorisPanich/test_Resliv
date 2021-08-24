@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/test_Resliv/static/css/main.dda72537.chunk.css",
+    "main.js": "/test_Resliv/static/js/main.3435ecc2.chunk.js",
+    "main.js.map": "/test_Resliv/static/js/main.3435ecc2.chunk.js.map",
+    "runtime-main.js": "/test_Resliv/static/js/runtime-main.bdd3d8a5.js",
+    "runtime-main.js.map": "/test_Resliv/static/js/runtime-main.bdd3d8a5.js.map",
+    "static/js/2.7454abd9.chunk.js": "/test_Resliv/static/js/2.7454abd9.chunk.js",
+    "static/js/2.7454abd9.chunk.js.map": "/test_Resliv/static/js/2.7454abd9.chunk.js.map",
+    "index.html": "/test_Resliv/index.html",
+    "static/css/main.dda72537.chunk.css.map": "/test_Resliv/static/css/main.dda72537.chunk.css.map",
+    "static/js/2.7454abd9.chunk.js.LICENSE.txt": "/test_Resliv/static/js/2.7454abd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdd3d8a5.js",
+    "static/js/2.7454abd9.chunk.js",
+    "static/css/main.dda72537.chunk.css",
+    "static/js/main.3435ecc2.chunk.js"
+  ]
+}
